@@ -1,0 +1,19 @@
+My Associate id:
+845090
+Other team members:
+845069,845088,844990
+TeamLead:
+845090
+My Role in team:
+1.Validataions
+2.Submit Form Development
+3.Integrating the All Modules
+Pages That I Performed Validations :
+1.placeorder.html
+2.contact.html
+My Developement Pages
+1.Submit.html
+
+I am Good at :
+1.Validations
+2.Styles
