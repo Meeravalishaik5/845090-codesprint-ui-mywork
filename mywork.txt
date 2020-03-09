@@ -5,15 +5,15 @@ Other team members:
 TeamLead:
 845090
 My Role in team:
-1.Validataions
-2.Submit Form Development
-3.Integrating the All Modules
-Pages That I Performed Validations :
-1.placeorder.html
-2.contact.html
-My Developement Pages
-1.Submit.html
+1.Creating Db.json And Storing Data in Json Server
+2.Services To Add and View Data from Json Server
+3.Creation of Routing Modules
+Componenets That I Worked On
+1.Order.services
+2.Viewgiftcard component
+3.app.routing.module.ts
+4.placegidtcard component
 
 I am Good at :
 1.Validations
-2.Styles
+2.Storing And Retrieving Data
